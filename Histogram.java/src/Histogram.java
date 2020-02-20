@@ -3,7 +3,6 @@
  * @author Jacob Ortiz
  * @date 1/29/20
  * sorts array by letter, and then displays occurrences
- * wanted to explore HashMaps more so i did it with HashMaps
  */
 
 import java.io.*;
