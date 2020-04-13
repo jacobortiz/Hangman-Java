@@ -3,6 +3,7 @@
  * @author Jacob Ortiz
  * @date 1/29/20
  * sorts array by letter, and then displays occurrences
+ * only letters from A - K
  */
 
 import java.io.*;
