@@ -3,7 +3,7 @@
  * @author Jacob Ortiz
  * @date 1/29/20
  * sorts array by letter, and then displays occurrences
- * only letters from A - K
+ * updated to do all letters
  */
 
 import java.io.*;
@@ -26,6 +26,22 @@ public class Histogram {
         letter.put('I', 0);
         letter.put('J', 0);
         letter.put('K', 0);
+        letter.put('L', 0);
+        letter.put('M', 0);
+        letter.put('N', 0);
+        letter.put('O', 0);
+        letter.put('P', 0);
+        letter.put('Q', 0);
+        letter.put('R', 0);
+        letter.put('S', 0);
+        letter.put('T', 0);
+        letter.put('U', 0);
+        letter.put('V', 0);
+        letter.put('W', 0);
+        letter.put('X', 0);
+        letter.put('Y', 0);
+        letter.put('Z', 0);
+        
 
         Scanner keyboard = new Scanner(System.in);
         System.out.println("input filename: ");
